@@ -1,0 +1,6 @@
+{
+  "name": "Connect2Dev",
+  "description": "A modern social media & developer networking platform built for engineers, featuring user profiles, home feed, code discussions, image posts, dynamic developer connection network, and dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
