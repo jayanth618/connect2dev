@@ -209,24 +209,37 @@ The application is automatically deployed through **Vercel**, ensuring the lates
 
 ---
 
-# 📸 Screenshots
+## 📸 Screenshots
 
-Add screenshots here before submitting.
+## 📰 Home Feed
 
-Suggested screenshots:
-
-- Home Feed 
 ![Home Feed](./src/Screenshots/Home-feed.JPG)
-- Developer Profile
-![Developer Profile](./src/screenshots/profile-tab.JPG)
-- Explore Page
-![Explore](./src/screenshots/Explore-Tags.JPG)
-- Community Chat
-![Community Chat](./src/screenshots/communites-tab.JPG)
-- Network Tab
-![Network Tab](./src/Screenshots/Network-Tab.JPG)
+
 ---
 
+## 👤 Developer Profile
+
+![Developer Profile](./src/Screenshots/profile-tab.JPG)
+
+---
+
+## 🔍 Explore Page
+
+![Explore](./src/Screenshots/Explore-Tags.JPG)
+
+---
+
+## 💬 Community Chat
+
+![Community Chat](./src/Screenshots/communites-tab.JPG)
+
+---
+
+## 🤝 Network Tab
+
+![Network Tab](./src/Screenshots/Network-Tab.JPG)
+
+---
 # 🚀 Future Enhancements
 
 - GitHub Authentication
